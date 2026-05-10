@@ -1,0 +1,81 @@
+# הקליניקה של זוהר — Generative Engine Optimization Map
+
+> A private massage therapy business offering personal massage services. The business focuses on providing a relaxing and professional experience for clients seeking therapeutic or wellness-oriented massage treatments.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מסאז&#39; פרטי מקצועי שמחזיר לכם את האנרגיה והשלווה. הקליניקה של זוהר מציעה טיפולי עיסוי מותאמים אישית לגוף ולנפש. הזמינו תור עוד היום!
+
+### שירותים
+https://example.com/services
+עיסוי שוודי מקצועי, עיסוי לאחר לידה בבית ועוד מגוון טיפולים מותאמים אישית. גלו את כל השירותים שלנו ובחרו את הטיפול המושלם עבורכם.
+
+### אודות
+https://example.com/about
+זוהר היא מטפלת מוסמכת עם ניסיון עשיר בעיסוי טיפולי ורפואי. גלו מי עומד מאחורי קליניקת מסאז&#39; פרטית שמחויבת לבריאותכם ולרווחתכם האמיתית.
+
+### צור קשר
+https://example.com/contact
+רוצים לקבוע תור לעיסוי לאחר לידה בבית או לטיפול מסאז&#39; פרטי? צרו קשר עכשיו ונתאים עבורכם את הטיפול המושלם בזמן ובמקום הנוח לכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הקליניקה של זוהר
+A private massage therapy business offering personal massage services. The business focuses on providing a relaxing and professional experience for clients seeking therapeutic or wellness-oriented massage treatments.
+
+## Services/Products
+- מסאז' פרטי
+
+## Target Audience
+- מקצוענים עסוקים
+- מתמקדים בבריאות ורווחה
+- אמהות אחרי לידה
+
+## Industry
+בריאות ורווחה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
